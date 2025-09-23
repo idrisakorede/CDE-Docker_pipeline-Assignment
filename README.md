@@ -42,7 +42,7 @@ It scrapes football match data, cleans and transforms it, and loads it into a Po
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/<idrisakorede>/<CDE-Docker_pipeline-Assignmnet>.git
 cd <repo-name>
 ```
 
@@ -108,5 +108,3 @@ docker network rm etl_network
 * Automated orchestration using Bash
 
 ---
-
-👉 Do you want me to also add a **“Future Improvements”** section at the end (like scheduling with cron, adding Airflow, visualization, etc.) to show your professor you’re thinking beyond the basics?
