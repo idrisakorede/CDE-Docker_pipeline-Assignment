@@ -42,8 +42,8 @@ It scrapes football match data, cleans and transforms it, and loads it into a Po
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<idrisakorede>/<CDE-Docker_pipeline-Assignmnet>.git
-cd <repo-name>
+git clone https://github.com/<idrisakorede>/<CDE-Docker_pipeline-Assignment>.git
+cd <CDE-Docker_pipeline-Assignment>
 ```
 
 ### 2. Ensure Docker is installed
